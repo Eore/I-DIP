@@ -1,4 +1,5 @@
-# Indonesian Democracy Improvement Proposals
+I-DIP | White Paper
+> Indonesian Democracy Improvement Proposals
 
 ## Daftar Isi
 
