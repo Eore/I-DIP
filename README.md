@@ -1,5 +1,4 @@
-# I-DIP
-Indonesian Democracy Improvement Proposals
+# Indonesian Democracy Improvement Proposals
 
 ## Daftar Isi
 
@@ -25,7 +24,7 @@ Ada 3 persamaan besar antara mengelola properti real estate, dan memerintah suat
 
 Menciptakan framework untuk properti pada skala yang jauh lebih kecil dan lebih sederhana dan melalui mekanisme dasar memiliki keunggulan penting yaitu fleksibilitas. Kita memulai dari yang kecil sehingga kita bisa belajar dari kekurangan dalam desain, membangunnya secara bertahap, dan menguji hipotesis kita ketika ia tumbuh mengikuti mentalitas Agile <sup id="a1">[1](#f1)</sup>.
 
-
+> WORK IN PROGRESS (WIP)
 
 
 
