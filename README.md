@@ -1,4 +1,5 @@
 # I-DIP | White Paper
+
 > Indonesian Democracy Improvement Proposals
 
 ## Daftar Isi
@@ -13,6 +14,5 @@ Nusantara Open Goverment adalah eksperimen yand ditujukan untuk membangun sebuah
 
     Teknologi Blockchain masih baru dan harus diselidiki dengan pola pikir "bagaimana teknologi blockchain berpotensi menguntungkan kita?"
     Daripada "bagaimana kita bisa membuat masalah kita masuk ke dalam paradigma teknologi blockchain?". Organisasi harus memperlakukan teknologi blockchain seperti mereka akan menggunakan solusi teknologi lainnya dan menggunakannya dalam situasi yang sesuai.
-
 
 > WORK IN PROGRESS (WIP)
