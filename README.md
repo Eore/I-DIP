@@ -9,8 +9,7 @@
 
 ## Abstrak
 
-Nusantara Open Goverment (NOG) adalah eksperimen sosial untuk menguji pemerintahan demokratis yang murni. Tujuannya adalah untuk membeli, mengelola, dan menikmati satu properti real estate (ungkapan). Harapannya adalah menggunakan ruang lingkup khusus ini untuk memperluas dan menumbuhkan ide menjadi tata kelola masyarakat yang baru, dan bahkan sebuah negara. Semoga membawa kita lebih dekat ke pemerintahan yang lebih murni, bertanggung jawab, dan representatif. Yang benar-benar dari rakyat, dan oleh rakyat, harus untuk rakyat.
-
+Nusantara Open Goverment adalah eksperimen yand ditujukan untuk membangun sebuah ruang dimana jalannya pemerintahan terlihat transaparan dan masyarakat dapat berpartisipasi secara langsung sesuai dengan tujuan pemerintahan demokratis tanpa ragu dan takut serta terlindungi. Harapannya dengan ada nya ruang ini, masyarakat dalam kontribusinya dapat menciptakan tata kelola masyarakat yang sesuai dengan keinginan masyarakat tanpa batasan sesuai dengan norma yang ada.
 
     Teknologi Blockchain masih baru dan harus diselidiki dengan pola pikir "bagaimana teknologi blockchain berpotensi menguntungkan kita?"
     Daripada "bagaimana kita bisa membuat masalah kita masuk ke dalam paradigma teknologi blockchain?". Organisasi harus memperlakukan teknologi blockchain seperti mereka akan menggunakan solusi teknologi lainnya dan menggunakannya dalam situasi yang sesuai.
